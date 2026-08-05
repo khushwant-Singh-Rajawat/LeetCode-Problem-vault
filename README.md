@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2396-strictly-palindromic-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/2396-strictly-palindromic-number) |
 ## Linked List
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0009-palindrome-number) |
+| [2396-strictly-palindromic-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/2396-strictly-palindromic-number) |
 ## Recursion
 |  |
 | ------- |
@@ -38,4 +40,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0004-median-of-two-sorted-arrays) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
