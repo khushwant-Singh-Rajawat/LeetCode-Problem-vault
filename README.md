@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0136-single-number) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
