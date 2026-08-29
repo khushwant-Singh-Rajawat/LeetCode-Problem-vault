@@ -14,6 +14,7 @@
 | [0136-single-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0169-majority-element) |
 | [0896-monotonic-array](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0896-monotonic-array) |
+| [1672-richest-customer-wealth](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
