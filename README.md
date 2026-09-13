@@ -20,6 +20,7 @@
 | [0896-monotonic-array](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0896-monotonic-array) |
 | [1572-matrix-diagonal-sum](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/1672-richest-customer-wealth) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,9 +88,11 @@
 | [0867-transpose-matrix](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/1672-richest-customer-wealth) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0867-transpose-matrix) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/2022-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
