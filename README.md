@@ -95,4 +95,8 @@
 | [0566-reshape-the-matrix](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0867-transpose-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/2022-convert-1d-array-into-2d-array) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
