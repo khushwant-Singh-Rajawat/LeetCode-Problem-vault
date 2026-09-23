@@ -98,5 +98,14 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0058-length-of-last-word) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
