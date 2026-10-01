@@ -15,6 +15,7 @@
 | [0074-search-a-2d-matrix](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0240-search-a-2d-matrix-ii) |
@@ -57,6 +58,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
