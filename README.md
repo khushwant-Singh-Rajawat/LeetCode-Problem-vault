@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0033-search-in-rotated-sorted-array) |
@@ -34,6 +35,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0125-valid-palindrome) |
@@ -129,4 +131,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0152-maximum-product-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
