@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0152-maximum-product-subarray) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0240-search-a-2d-matrix-ii) |
 ## Brainteaser
@@ -121,5 +123,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
