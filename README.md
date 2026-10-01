@@ -14,6 +14,7 @@
 | [0074-search-a-2d-matrix](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0867-transpose-matrix) |
@@ -112,4 +113,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
