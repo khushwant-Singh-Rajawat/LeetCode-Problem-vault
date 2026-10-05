@@ -123,6 +123,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0125-valid-palindrome) |
