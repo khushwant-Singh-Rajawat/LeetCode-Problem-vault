@@ -58,6 +58,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0268-missing-number) |
 | [2396-strictly-palindromic-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/2396-strictly-palindromic-number) |
 ## Recursion
@@ -89,6 +90,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0268-missing-number) |
 ## Sorting
@@ -118,6 +120,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0867-transpose-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -134,6 +137,7 @@
 | [0022-generate-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0151-reverse-words-in-a-string) |
 ## Stack
