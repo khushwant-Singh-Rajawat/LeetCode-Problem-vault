@@ -141,6 +141,7 @@
 | [0067-add-binary](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0151-reverse-words-in-a-string) |
 ## Stack
@@ -164,6 +165,7 @@
 | [0022-generate-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0091-decode-ways) |
 | [0152-maximum-product-subarray](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0152-maximum-product-subarray) |
 ## Greedy
 |  |
