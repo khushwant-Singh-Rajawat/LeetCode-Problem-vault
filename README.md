@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -119,6 +120,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0125-valid-palindrome) |
@@ -144,4 +146,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
