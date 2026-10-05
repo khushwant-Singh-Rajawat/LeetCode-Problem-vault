@@ -16,6 +16,7 @@
 | [0053-maximum-subarray](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0169-majority-element) |
@@ -36,6 +37,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -143,6 +145,7 @@
 | [0076-minimum-window-substring](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0151-reverse-words-in-a-string) |
 ## Stack
 |  |
@@ -166,6 +169,7 @@
 | [0053-maximum-subarray](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0152-maximum-product-subarray) |
 ## Greedy
 |  |
@@ -201,4 +205,16 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
