@@ -141,6 +141,7 @@
 | [0020-valid-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0072-edit-distance) |
@@ -156,11 +157,13 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0032-longest-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0032-longest-valid-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -171,6 +174,7 @@
 | [0005-longest-palindromic-substring](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0091-decode-ways) |
