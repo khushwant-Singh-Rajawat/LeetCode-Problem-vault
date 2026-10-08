@@ -18,6 +18,7 @@
 | [0074-search-a-2d-matrix](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0169-majority-element) |
@@ -41,6 +42,7 @@
 | [0126-word-ladder-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0268-missing-number) |
@@ -159,6 +161,7 @@
 | [0126-word-ladder-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0344-reverse-string) |
@@ -191,6 +194,7 @@
 | [0091-decode-ways](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0152-maximum-product-subarray) |
 ## Greedy
 |  |
@@ -212,6 +216,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0022-generate-parentheses) |
 | [0126-word-ladder-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0126-word-ladder-ii) |
+| [0140-word-break-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0140-word-break-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -232,10 +237,12 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0140-word-break-ii) |
 ## Memoization
 |  |
 | ------- |
 | [0139-word-break](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0140-word-break-ii) |
 ## Brute-Force Search
 |  |
 | ------- |
