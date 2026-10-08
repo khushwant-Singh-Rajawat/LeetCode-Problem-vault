@@ -164,6 +164,7 @@
 | [0140-word-break-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0709-to-lower-case) |
 ## Stack
@@ -210,6 +211,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0005-longest-palindromic-substring) |
+| [0214-shortest-palindrome](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0214-shortest-palindrome) |
 ## Backtracking
 |  |
 | ------- |
@@ -221,14 +223,17 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0214-shortest-palindrome) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0214-shortest-palindrome) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0214-shortest-palindrome) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -257,4 +262,12 @@
 | ------- |
 | [0126-word-ladder-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0127-word-ladder) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
