@@ -217,6 +217,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0022-generate-parentheses) |
+| [0052-n-queens-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0052-n-queens-ii) |
 | [0126-word-ladder-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0140-word-break-ii) |
 ## String Matching
@@ -270,4 +271,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0214-shortest-palindrome) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
