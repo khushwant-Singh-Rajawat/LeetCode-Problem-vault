@@ -38,6 +38,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0076-minimum-window-substring) |
+| [0126-word-ladder-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0169-majority-element) |
@@ -155,6 +156,7 @@
 | [0091-decode-ways](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0125-valid-palindrome) |
+| [0126-word-ladder-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0151-reverse-words-in-a-string) |
@@ -209,6 +211,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0022-generate-parentheses) |
+| [0126-word-ladder-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0126-word-ladder-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -240,9 +243,11 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0127-word-ladder) |
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
