@@ -14,6 +14,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0053-maximum-subarray) |
+| [0068-text-justification](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0139-word-break) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0068-text-justification) |
 | [0566-reshape-the-matrix](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0867-transpose-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -147,6 +149,7 @@
 | [0044-wildcard-matching](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0091-decode-ways) |
