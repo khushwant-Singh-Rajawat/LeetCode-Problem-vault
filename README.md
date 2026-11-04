@@ -193,6 +193,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0709-to-lower-case) |
@@ -298,6 +299,7 @@
 | ------- |
 | [0126-word-ladder-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0127-word-ladder) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -319,12 +321,19 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
