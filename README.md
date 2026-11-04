@@ -169,6 +169,7 @@
 | [0068-text-justification](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0125-valid-palindrome) |
@@ -210,6 +211,7 @@
 | [0044-wildcard-matching](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0072-edit-distance) |
+| [0087-scramble-string](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0131-palindrome-partitioning) |
