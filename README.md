@@ -77,6 +77,7 @@
 | [0067-add-binary](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0171-excel-sheet-column-number) |
 | [0227-basic-calculator-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -88,6 +89,7 @@
 | [0002-add-two-numbers](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0044-wildcard-matching) |
+| [0241-different-ways-to-add-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0241-different-ways-to-add-parentheses) |
 ## Binary Search
 |  |
 | ------- |
@@ -186,6 +188,7 @@
 | [0205-isomorphic-strings](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0241-different-ways-to-add-parentheses) |
 | [0344-reverse-string](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0709-to-lower-case) |
@@ -201,6 +204,7 @@
 | [0020-valid-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0032-longest-valid-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0241-different-ways-to-add-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -223,6 +227,7 @@
 | [0139-word-break](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0152-maximum-product-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0241-different-ways-to-add-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -278,6 +283,7 @@
 | ------- |
 | [0139-word-break](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0241-different-ways-to-add-parentheses) |
 ## Brute-Force Search
 |  |
 | ------- |
