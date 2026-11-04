@@ -34,6 +34,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/1672-richest-customer-wealth) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/2022-convert-1d-array-into-2d-array) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2396-strictly-palindromic-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/2396-strictly-palindromic-number) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
 | ------- |
