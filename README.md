@@ -50,6 +50,7 @@
 | [0140-word-break-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
@@ -122,6 +123,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -189,6 +191,7 @@
 | [0214-shortest-palindrome](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0709-to-lower-case) |
