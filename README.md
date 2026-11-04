@@ -192,6 +192,7 @@
 | [0227-basic-calculator-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0709-to-lower-case) |
@@ -257,6 +258,7 @@
 | [0126-word-ladder-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0140-word-break-ii) |
+| [0257-binary-tree-paths](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0257-binary-tree-paths) |
 ## String Matching
 |  |
 | ------- |
@@ -313,4 +315,16 @@
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0052-n-queens-ii) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
