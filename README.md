@@ -73,6 +73,7 @@
 | [0002-add-two-numbers](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -171,6 +172,7 @@
 | [0139-word-break](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0344-reverse-string) |
