@@ -26,6 +26,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0566-reshape-the-matrix](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0896-monotonic-array) |
@@ -71,6 +72,7 @@
 | [0009-palindrome-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2396-strictly-palindromic-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/2396-strictly-palindromic-number) |
 ## Recursion
 |  |
