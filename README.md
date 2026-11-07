@@ -23,6 +23,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0268-missing-number) |
@@ -63,6 +64,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2396-strictly-palindromic-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/2396-strictly-palindromic-number) |
@@ -77,6 +79,7 @@
 | [0009-palindrome-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/khushwant-Singh-Rajawat/LeetCode-Problem-vault/tree/master/0268-missing-number) |
